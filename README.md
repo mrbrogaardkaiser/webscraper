@@ -1,13 +1,13 @@
-# webscraper
+# Webscraper
 Web scraper with BeautifulSoup4. Scraping job adds for Java development 
 
-# Clone repository
+Clone repository
 $ git clone 
 
-# cd in to folder
+cd in to folder
 
-# Build image based on repositorys Docker file
+Build image based on repositorys Docker file
 $ docker build --tag kaiser/scraper .
 
-# Run container based on image
+Run container based on image
 $ docker run -it --rm -v ${PWD}:/docs kaiser/scraper ash
