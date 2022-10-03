@@ -4,7 +4,7 @@ Web scraper with BeautifulSoup4. Scraping job adds for Java development
 Clone repository\
 $ git clone https://github.com/mrbrogaardkaiser/webscraper.git
 
-Dd in to directory\
+Cd in to directory\
 $ cd webscraper
 
 Build image based on repositorys Dockerfile\
